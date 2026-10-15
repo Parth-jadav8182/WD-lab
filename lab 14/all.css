@@ -1,0 +1,183 @@
+ .main {
+     background-color: black;
+     color: white;
+     height: 80px;
+
+ }
+
+ header {
+     height: 50px;
+ }
+
+ .h {
+
+     margin-left: 200px;
+
+ }
+
+ .im {
+     background-color: black;
+ }
+
+ .s {
+     float: right;
+     margin-top: 10px;
+     margin-right: 550px;
+     font-size: 20px;
+
+
+ }
+
+ .q {
+
+     float: right;
+     margin-top: 10px;
+     margin-right: 50px;
+     font-size: 20px;
+ }
+
+ .b {
+     float: right;
+     box-sizing: border-box;
+     width: 130px;
+     background-color:rgb(106, 209, 237);
+     color: white;
+     border: 3px solid rgb(106, 209, 237);
+     border-radius: 40px;
+     text-align: center;
+     font-size: 30px;
+     margin-top: 20px;
+     margin-right: -550px;
+
+ }
+
+ .social {
+     width: 50px;
+     display: flex;
+     justify-content: flex-end;
+     gap: 15px;
+     float: right;
+     margin-left: 650px;
+     margin-top: -40px;
+     margin-right: 30px;
+ }
+
+ .social a {
+     color: white;
+     text-decoration: none;
+     font-size: 20px;
+     font-weight: bold;
+ }
+
+ .col {
+     background-color: slategray;
+
+ }
+
+ .g {
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeraZ0oDYO1PfSDnWUTXM4JsQgRUSzbfurFc3BkgNHtQ&s=10);
+     background-color: transparent;
+     height: 200px;
+     width: 1300px;
+     margin-left: 110px;
+     border-radius: 12px
+ }
+
+ h1 {
+     color: white;
+     font-size: 40px;
+     font-family: cursive;
+     text-align: right;
+     margin-right: 20px;
+ }
+
+ .card {
+     margin-top: 50px;
+     margin-left: 110px;
+     width: 300px;
+     height: 600px;
+     background-color: white;
+     border-radius: 12px;
+     overflow: hidden;
+
+ }
+
+ .color-box {
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfzSbJF4xk3LXsQrYo1ea2XNm3Vzqr4tstfiSx3lSYZA&s=10);
+     background-color: transparent;
+     height: 300px;
+     width: 300px;
+ }
+
+ .codes {
+     padding: 15px 20px;
+ }
+
+ .codes p {
+     margin: 2px;
+ }
+
+ .code1 {
+     color: #574bcd;
+ }
+
+ h2 {
+     font-family: cursive;
+ }
+
+ .code3 {
+     color: rgb(122, 120, 117);
+ }
+
+ .code4 {
+     color: rgb(92, 91, 90);
+ }
+
+ button {
+     border-radius: 20px;
+     border: 2px solid rgb(106, 209, 237);
+     box-sizing: border-box;
+     background-color: rgb(106, 209, 237);
+     width: 150px;
+     height: 40px;
+     color: white;
+     margin-top: 20px;
+     margin-left: 50px;
+     font-size: 20px;
+ }
+
+ .music {
+     margin-left: 330px;
+     margin-top: -683px;
+ }
+
+ .color-box2 {
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQB_SADqBNkI2Rvy2OfiXOzU8bF8QXj0hqsJrYyIAsmw&s=10);
+     background-color: transparent;
+     height: 300px;
+     width: 300px;
+ }
+
+ .dj {
+     margin-left: 660px;
+     margin-top: -683px;
+ }
+
+ .color-box3 {
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIAk97mfggm8PwocwXEtj4tDTHti3OFrJ58PLwWesDYA&s=10);
+     background-color: transparent;
+     height:300px;
+     width: 300px;
+ }
+
+ .party {
+     margin-left: 1000px;
+     margin-top: -683px;
+ }
+
+ .color-box4 {
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GGquwkkFtHH0lbAavqC4eelVYZwSYz2v1JPxwvo6TA&s=10);
+     background-color: transparent;
+     height: 300px;
+     width: 300px;
+ }
